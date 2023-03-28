@@ -10,7 +10,7 @@
  - Date - by 29th March 2023
 
 
-# Requirements - General
+## Requirements - General
 
  - Allowed editors: vi, vim, emacs
  - All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
@@ -24,13 +24,13 @@
  - Don’t forget to push your header file
  - All your header files should be include guarded
 
-### Note that we will not provide the _putchar function for this project
+#### Note that we will not provide the _putchar function for this project
 
-# GitHub
+## GitHub
 There should be one project repository per group. The other members do not fork or clone the project to ensure only one of the team has the repository in their github account otherwise you risk scoring 0%
 
-# More Info
-## Authorized functions and macros
+## More Info
+### Authorized functions and macros
  - write (man 2 write)
  - malloc (man 3 malloc)
  - free (man 3 free)
@@ -39,7 +39,7 @@ There should be one project repository per group. The other members do not fork 
  - va_copy (man 3 va_copy)
  - va_arg (man 3 va_arg)
 
-# Compilation
+## Compilation
  - Your code will be compiled this way:
     ```
     $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
@@ -126,14 +126,14 @@ There should be one project repository per group. The other members do not fork 
  - We strongly encourage you to work all together on a set of tests
  - If the task does not specify what to do with an edge case, do the same as printf
 
-# Copyright - Plagiarism
+## Copyright - Plagiarism
  - You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
  - You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
  - You are not allowed to publish any content of this project.
  - Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
 
-# Tasks
+## Tasks
 ### Task 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
 Write a function that produces output according to a format.
 
