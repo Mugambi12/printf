@@ -134,7 +134,7 @@ There should be one project repository per group. The other members do not fork 
 
 
 # Tasks
-## Task 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
+### Task 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
 Write a function that produces output according to a format.
 
  - Prototype: int _printf(const char *format, ...);
@@ -152,7 +152,7 @@ Write a function that produces output according to a format.
 ### Repo:
  - GitHub repository: printf
 
-## Task 1. Education is when you read the fine print. Experience is what you get if you don't
+### Task 1. Education is when you read the fine print. Experience is what you get if you don't
 Handle the following conversion specifiers:
  - d
  - i
@@ -163,7 +163,7 @@ Handle the following conversion specifiers:
 ### Repo:
  - GitHub repository: printf
 
-## Task 2. With a face like mine, I do better in print
+### Task 2. With a face like mine, I do better in print
 Handle the following custom conversion specifiers:
  - b: the unsigned int argument is converted to binary
 
@@ -189,7 +189,7 @@ Handle the following custom conversion specifiers:
 ### Repo:
  - GitHub repository: printf
 
-## Task 3. What one has not experienced, one will never understand in print
+### Task 3. What one has not experienced, one will never understand in print
 Handle the following conversion specifiers:
  - u
  - o
@@ -202,13 +202,13 @@ Handle the following conversion specifiers:
 ### Repo:
  - GitHub repository: printf
 
-## Task 4. Nothing in fine print is ever good news
+### Task 4. Nothing in fine print is ever good news
 Use a local buffer of 1024 chars in order to call write as little as possible.
 
 ### Repo:
  - GitHub repository: printf
 
-## Task 5. My weakness is wearing too much leopard print
+### Task 5. My weakness is wearing too much leopard print
 Handle the following custom conversion specifier:
 
  - S : prints the string.
@@ -237,7 +237,7 @@ Handle the following custom conversion specifier:
 
  - GitHub repository: printf
 
-## Task 6. How is the world ruled and led to war? Diplomats lie to journalists and believe these lies when they see them in print
+### Task 6. How is the world ruled and led to war? Diplomats lie to journalists and believe these lies when they see them in print
 Handle the following conversion specifier: p.
  - You don’t have to handle the flag characters
  - You don’t have to handle field width
@@ -246,7 +246,7 @@ Handle the following conversion specifier: p.
 ### Repo:
  - GitHub repository: printf
 
-## Task 7. The big print gives and the small print takes away
+### Task 7. The big print gives and the small print takes away
 Handle the following flag characters for non-custom conversion specifiers:
  - `+`
  - space
@@ -254,7 +254,7 @@ Handle the following flag characters for non-custom conversion specifiers:
 ### Repo:
  - GitHub repository: printf
 
-## Task 8. Sarcasm is lost in print
+### Task 8. Sarcasm is lost in print
 Handle the following length modifiers for non-custom conversion specifiers:
  - l
  - h
@@ -262,39 +262,39 @@ Conversion specifiers to handle: d, i, u, o, x, X
 ### Repo:
  - GitHub repository: printf
 
-## Task 9. Print some money and give it to us for the rain forests
+### Task 9. Print some money and give it to us for the rain forests
 Handle the field width for non-custom conversion specifiers.
 ### Repo:
  - GitHub repository: printf
 
-## Task 10. The negative is the equivalent of the composer's score, and the print the performance
+### Task 10. The negative is the equivalent of the composer's score, and the print the performance
 Handle the precision for non-custom conversion specifiers.
 ### Repo:
  - GitHub repository: printf
 
-## Task 11. It's depressing when you're still around and your albums are out of print
+### Task 11. It's depressing when you're still around and your albums are out of print
 Handle the 0 flag character for non-custom conversion specifiers.
 ### Repo:
  - GitHub repository: printf
 
-## Task 12. Every time that I wanted to give up, if I saw an interesting textile, print what ever, suddenly I would see a collection
+### Task 12. Every time that I wanted to give up, if I saw an interesting textile, print what ever, suddenly I would see a collection
 Handle the - flag character for non-custom conversion specifiers.
 ### Repo:
  - GitHub repository: printf
 
-## Task 13. Print is the sharpest and the strongest weapon of our party
+### Task 13. Print is the sharpest and the strongest weapon of our party
 Handle the following custom conversion specifier:
  - r : prints the reversed string
 ### Repo:
  - GitHub repository: printf
 
-## Task 14. The flood of print has turned reading into a process of gulping rather than savoring
+### Task 14. The flood of print has turned reading into a process of gulping rather than savoring
 Handle the following custom conversion specifier:
  - R: prints the rot13'ed string
 ### Repo:
  - GitHub repository: printf
 
-## Task 15. *
+### Task 15. *
 All the above options work well together.
 ### Repo:
  - GitHub repository: printf
